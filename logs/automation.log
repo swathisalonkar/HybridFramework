@@ -1,0 +1,107 @@
+suiteXmlPath: "D:\eclipse-workspace\HybridFramework\grouping.xml"
+[TestNG] Running:
+  D:\eclipse-workspace\HybridFramework\grouping.xml
+
+-------Starting TC001_AccountRegistrationTest-------
+-------Entering user info-------
+-------Finished TC001_AccountRegistrationTest-------
+-------Starting TC002_LoginTest-------
+-------Finished TC002_LoginTest-------
+suiteXmlPath: "D:\eclipse-workspace\HybridFramework\master.xml"
+[TestNG] Running:
+  D:\eclipse-workspace\HybridFramework\master.xml
+
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+-------Starting TC002_LoginTest-------
+-------Finished TC002_LoginTest-------
+-------Starting TC002_LoginTest-------
+-------Finished TC002_LoginTest-------
+-------Starting TC002_LoginTest-------
+-------Finished TC002_LoginTest-------
+-------Starting TC002_LoginTest-------
+suiteXmlPath: "D:\eclipse-workspace\HybridFramework\master.xml"
+[TestNG] Running:
+  D:\eclipse-workspace\HybridFramework\master.xml
+
+suiteXmlPath: "D:\eclipse-workspace\HybridFramework\master.xml"
+[TestNG] Running:
+  D:\eclipse-workspace\HybridFramework\master.xml
+
+-------Starting TC002_LoginTest-------
+-------Finished TC002_LoginTest-------
+suiteXmlPath: "D:\eclipse-workspace\HybridFramework\docker_grid.xml"
+[TestNG] Running:
+  D:\eclipse-workspace\HybridFramework\docker_grid.xml
+
+suiteXmlPath: "D:\eclipse-workspace\HybridFramework\docker_grid.xml"
+[TestNG] Running:
+  D:\eclipse-workspace\HybridFramework\docker_grid.xml
+
+-------Starting TC001_AccountRegistrationTest-------
+suiteXmlPath: "D:\eclipse-workspace\HybridFramework\docker_grid.xml"
+[TestNG] Running:
+  D:\eclipse-workspace\HybridFramework\docker_grid.xml
+
+-------Starting TC001_AccountRegistrationTest-------
+-------Entering user info-------
+-------Finished TC001_AccountRegistrationTest-------
+-------Starting TC002_LoginTest-------
+-------Finished TC002_LoginTest-------
+suiteXmlPath: "D:\eclipse-workspace\HybridFramework\docker_grid.xml"
+[TestNG] Running:
+  D:\eclipse-workspace\HybridFramework\docker_grid.xml
+
+suiteXmlPath: "D:\eclipse-workspace\HybridFramework\docker_grid.xml"
+[TestNG] Running:
+  D:\eclipse-workspace\HybridFramework\docker_grid.xml
+
+suiteXmlPath: "D:\eclipse-workspace\HybridFramework\docker_grid.xml"
+[TestNG] Running:
+  D:\eclipse-workspace\HybridFramework\docker_grid.xml
+
+suiteXmlPath: "D:\eclipse-workspace\HybridFramework\docker_grid.xml"
+[TestNG] Running:
+  D:\eclipse-workspace\HybridFramework\docker_grid.xml
+
+suiteXmlPath: "D:\eclipse-workspace\HybridFramework\master.xml"
+suiteXmlPath: "D:\eclipse-workspace\HybridFramework\master.xml"
+-------Starting TC002_LoginTest-------
+-------Finished TC002_LoginTest-------
+suiteXmlPath: "D:\eclipse-workspace\HybridFramework\master.xml"
+-------Starting TC002_LoginTest-------
+-------Finished TC002_LoginTest-------
+suiteXmlPath: "D:\eclipse-workspace\HybridFramework\master.xml"
+-------Starting TC002_LoginTest-------
+-------Finished TC002_LoginTest-------
