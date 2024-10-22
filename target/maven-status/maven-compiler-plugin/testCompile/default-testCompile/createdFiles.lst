@@ -1,3 +1,4 @@
+testCases\TC004_SearchTest.class
 pageObjects\HomePage.class
 pageObjects\MyAccountPage.class
 utilities\ExcelUtility.class
@@ -5,6 +6,7 @@ pageObjects\RegisterAccountPage.class
 testBase\BaseClass.class
 testCases\TC002_LoginTest.class
 testCases\TC001_AccountRegistrationTest.class
+pageObjects\SearchResultsPage.class
 pageObjects\LoginPage.class
 pageObjects\BasePage.class
 testCases\TC003_LoginDDT.class
