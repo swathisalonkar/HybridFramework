@@ -7,13 +7,13 @@ import pageObjects.HomePage;
 import pageObjects.SearchResultsPage;
 import testBase.BaseClass;
 
-public class TC004_SearchTest extends BaseClass {
+public class TC005_AddToCartTest extends BaseClass {
 
-	@Test(groups = { "Sanity", "Master" })
-	public void verify_SearchProduct() {
-
+	@Test(groups = { "Master", "Sanity" })
+	public void verify_AddToCart() {
 		try {
-			logger.info("-------Starting TC004_SearchTest-------");
+
+			logger.info("-------Started TC005_AddToCartTest-------");
 			String product = p.getProperty("searchProductName");
 
 			HomePage hp = new HomePage(driver);
@@ -21,23 +21,22 @@ public class TC004_SearchTest extends BaseClass {
 			hp.clickSearchBtn();
 
 			SearchResultsPage sp = new SearchResultsPage(driver);
-			String result = sp.getProduct();
+			String prodName = sp.getProduct();
 
 			if (sp.getMessage() == true) {
-				System.out.println("No matching products found");
+				System.out.println("No matching products");
 				return;
-			} else if (result.contains(product)) {
-				System.out.println("Search success");
+			} else if (prodName.contains(product)) {
+				sp.clickAddBtn();
 				Assert.assertTrue(true);
 			} else {
-				System.out.println("Search failed");
+				System.out.println("Product results mismatched");
 				Assert.assertTrue(false);
 			}
 
 		} catch (Exception e) {
-			System.out.println("Search failed");
 			Assert.fail();
 		}
-		logger.info("-------Finished TC004_SearchTest-------");
+		logger.info("-------Finished TC005_AddToCartTest-------");
 	}
 }

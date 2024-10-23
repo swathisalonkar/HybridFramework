@@ -36,3 +36,19 @@ suiteXmlPath: "D:\eclipse-workspace\HybridFramework\master.xml"
 suiteXmlPath: "D:\eclipse-workspace\HybridFramework\master.xml"
 -------Starting TC004_SearchTest-------
 -------Finished TC004_SearchTest-------
+suiteXmlPath: "D:\eclipse-workspace\HybridFramework\master.xml"
+[TestNG] Running:
+  D:\eclipse-workspace\HybridFramework\master.xml
+
+-------Started TC005_AddToCartTest-------
+-------Finished TC005_AddToCartTest-------
+suiteXmlPath: "D:\eclipse-workspace\HybridFramework\master.xml"
+[TestNG] Running:
+  D:\eclipse-workspace\HybridFramework\master.xml
+
+-------Started TC005_AddToCartTest-------
+suiteXmlPath: "D:\eclipse-workspace\HybridFramework\master.xml"
+[TestNG] Running:
+  D:\eclipse-workspace\HybridFramework\master.xml
+
+-------Started TC005_AddToCartTest-------
